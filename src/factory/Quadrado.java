@@ -1,4 +1,4 @@
-import factory.Poligono;
+package factory;
 
 public class Quadrado implements Poligono {
     @Override
